@@ -94,8 +94,8 @@ void oprational_pixel()
 
 	//通过for遍历指针获取像素
 	//注意 彩色图和灰度图的通道不一致
-	imshow("3channel", loop_ptr(src));
+	//imshow("3channel", loop_ptr(src));
 
-	imshow("1channel", loop_ptr(src_g));
+	//imshow("1channel", loop_ptr(src_g));
 
 }

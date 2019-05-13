@@ -16,8 +16,21 @@ int main()
 	//image_object();
 
 	//像素操作
-	oprational_pixel();
+	//oprational_pixel();
 
+	//像素操作 加减乘除
+	//oprational_pixel_jjcx();
+
+	//像素操作 加法 手动实现
+	//oprational_pixel_add_by_custom();
+
+
+	//LUT查找表
+	//LUT();
+
+	//自定义LUT
+	//实现一个gray 二值化的过程
+	Coustom_LUT();
 
 
 

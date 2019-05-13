@@ -114,6 +114,8 @@
     <ClCompile Include="002.cpp" />
     <ClCompile Include="003.cpp" />
     <ClCompile Include="004.cpp" />
+    <ClCompile Include="005.cpp" />
+    <ClCompile Include="006.cpp" />
     <ClCompile Include="openCVstudy.cpp" />
   </ItemGroup>
   <ItemGroup>
