@@ -30,7 +30,10 @@ int main()
 
 	//自定义LUT
 	//实现一个gray 二值化的过程
-	Coustom_LUT();
+	//Coustom_LUT();
+
+
+	Transform();
 
 
 

@@ -16,6 +16,9 @@
     <Filter Include="源文件\StudyContent">
       <UniqueIdentifier>{67cfca79-4018-432e-bc3a-c4807221b8f6}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\Test">
+      <UniqueIdentifier>{2ebb1594-457e-477f-9fa8-a97c16dc0a0c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="openCVstudy.cpp">
@@ -38,6 +41,9 @@
     </ClCompile>
     <ClCompile Include="006.cpp">
       <Filter>源文件\StudyContent</Filter>
+    </ClCompile>
+    <ClCompile Include="imageTransform.cpp">
+      <Filter>源文件\Test</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
