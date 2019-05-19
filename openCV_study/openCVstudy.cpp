@@ -12,29 +12,41 @@ int main()
 	//convert_write();
 
 
-	//图像对象说明
+	//001.图像对象说明
 	//image_object();
 
-	//像素操作
+	//002.像素操作
 	//oprational_pixel();
 
-	//像素操作 加减乘除
+	//003.像素操作 加减乘除
 	//oprational_pixel_jjcx();
 
-	//像素操作 加法 手动实现
+	//004.像素操作 加法 手动实现
 	//oprational_pixel_add_by_custom();
 
 
-	//LUT查找表
+	//005.LUT查找表
 	//LUT();
 
-	//自定义LUT
+	//006.自定义LUT
 	//实现一个gray 二值化的过程
 	//Coustom_LUT();
 
 
-	Transform();
+	//透视变换
+	//Transform();
 
+	//007.逻辑操作 and  xor or
+	//operator_and_xor();
+
+	//008.图像通道合并和分割
+	//split_merge();
+
+	//009
+	//convert_color();
+
+	//010
+	means_stddev();
 
 
 	waitKey(0);

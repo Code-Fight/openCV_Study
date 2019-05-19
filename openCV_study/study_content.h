@@ -26,3 +26,7 @@ void oprational_pixel_add_by_custom();
 void LUT();
 void Coustom_LUT();
 void Transform();
+void operator_and_xor();
+void split_merge();
+void convert_color();
+void means_stddev();
