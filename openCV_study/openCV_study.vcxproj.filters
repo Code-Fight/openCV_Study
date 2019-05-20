@@ -57,6 +57,12 @@
     <ClCompile Include="010.cpp">
       <Filter>源文件\StudyContent</Filter>
     </ClCompile>
+    <ClCompile Include="011.cpp">
+      <Filter>源文件\StudyContent</Filter>
+    </ClCompile>
+    <ClCompile Include="012.cpp">
+      <Filter>源文件\StudyContent</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="study_content.h">

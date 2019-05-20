@@ -46,8 +46,13 @@ int main()
 	//convert_color();
 
 	//010
-	means_stddev();
+	//means_stddev();
 
+	//011
+	//normalize_test();
+
+	//012
+	video_read_write();
 
 	waitKey(0);
 	return 0;

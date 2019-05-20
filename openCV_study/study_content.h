@@ -6,6 +6,7 @@
 
 #include <opencv2/opencv.hpp>
 #include <iostream>
+#include <Windows.h>
 #include <direct.h>
 #include <string>
 
@@ -30,3 +31,5 @@ void operator_and_xor();
 void split_merge();
 void convert_color();
 void means_stddev();
+void normalize_test();
+void video_read_write();
