@@ -42,17 +42,29 @@ int main()
 	//008.图像通道合并和分割
 	//split_merge();
 
-	//009
+	//009.图像色彩空间转换
 	//convert_color();
 
-	//010
+	//010.图像像素值统计
 	//means_stddev();
 
-	//011
+	//011.像素归一化
 	//normalize_test();
 
-	//012
-	video_read_write();
+	//012.视频文件的读写
+	//video_read_write();
+
+	//013.图像翻转
+	//image_flip();
+
+	//014.图像插值
+	//ImageInterpolation();
+
+	//015.几何形状绘制
+	//draw_geometry();
+
+	//016.ROI
+	image_roi();
 
 	waitKey(0);
 	return 0;
