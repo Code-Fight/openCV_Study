@@ -64,7 +64,13 @@ int main()
 	//draw_geometry();
 
 	//016.ROI
-	image_roi();
+	//image_roi();
+
+	//017.直方图
+	//histogram();
+
+	//018.直方图均衡化 - 增强图像效果
+	histogram_equalization();
 
 	waitKey(0);
 	return 0;

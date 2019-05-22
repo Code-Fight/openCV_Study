@@ -37,3 +37,6 @@ using namespace std;
 void ImageInterpolation();
 void draw_geometry();
 void image_roi();
+
+void histogram();
+void histogram_equalization();
