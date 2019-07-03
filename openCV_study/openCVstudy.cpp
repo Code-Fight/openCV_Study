@@ -4,6 +4,8 @@
  */
 int main()
 {
+
+	test();
 	//001_imread and imshow
 	//read_show();
 	 
@@ -34,7 +36,7 @@ int main()
 
 
 	//透视变换
-	//Transform();
+	//Transform_test();
 
 	//007.逻辑操作 and  xor or
 	//operator_and_xor();
@@ -70,7 +72,13 @@ int main()
 	//histogram();
 
 	//018.直方图均衡化 - 增强图像效果
-	histogram_equalization();
+	//histogram_equalization();
+
+  //stitchTest();
+
+
+	//图像改变image
+	//TransformImageStart();
 
 	waitKey(0);
 	return 0;

@@ -6,3 +6,16 @@
 *.db
 /openCV_study/x64/Debug/openCV_study.tlog
 /openCV_study/x64/Debug
+openCV_study/x64/Release/openCV_study.tlog/CL.write.1.tlog
+openCV_study/x64/Release/openCV_study.tlog/link-cvtres.read.1.tlog
+openCV_study/x64/Release/openCV_study.tlog/link-cvtres.write.1.tlog
+openCV_study/x64/Release/openCV_study.tlog/link-rc.read.1.tlog
+openCV_study/x64/Release/openCV_study.tlog/link-rc.write.1.tlog
+openCV_study/x64/Release/openCV_study.tlog/link.command.1.tlog
+*.obj
+*.ipdb
+*.log
+*.lastbuildstate
+*.pdb
+*.exe
+*.ilk

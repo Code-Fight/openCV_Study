@@ -81,6 +81,7 @@
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
     </ClCompile>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
@@ -121,7 +122,6 @@
     <ClCompile Include="009.cpp" />
     <ClCompile Include="010.cpp" />
     <ClCompile Include="011.cpp" />
-    <ClCompile Include="012.cpp" />
     <ClCompile Include="013.cpp" />
     <ClCompile Include="014.cpp" />
     <ClCompile Include="015.cpp" />
@@ -130,8 +130,12 @@
     <ClCompile Include="018.cpp" />
     <ClCompile Include="imageTransform.cpp" />
     <ClCompile Include="openCVstudy.cpp" />
+    <ClCompile Include="stitchTest.cpp" />
+    <ClCompile Include="test.cpp" />
+    <ClCompile Include="TransformImage.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="opencv_lib.h" />
     <ClInclude Include="study_content.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
